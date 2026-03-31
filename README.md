@@ -1,2 +1,2 @@
-# PracticeRepository
-Just for practice
+# Practice Repository
+Just for practice. Doesn't suck anymore!
